@@ -34,7 +34,6 @@ Hi! below are the steps to Convert your **Gnome** desktop environment to **Windo
 	- example: https://freefontsfamily.com/segoe-ui-font-free/#google_vignette
 - Open **gnome-tweaks** select fonts menu from left side change interface text font to `segoe-ui` (regular/light).
 
-**Follow below Steps to install both the themes**
 ## 6. Extensions
 Open Extensions Manager select browse menu on the top and Install following extensions and change settings as given.
 - **1. Dash to panel**
@@ -107,5 +106,7 @@ Open Extensions Manager select browse menu on the top and Install following exte
 	- Try to install Extension manager from third party enabled or from flat-hub or from snap package manger.
 > - **Arcmenu Disabled**
 	> 	- Try to check what is the error and install missing packages and install them, OR other way is directly install extensions by searching with package manage for example in case of nix os: `nix-env -i gnome-shell-extension-arcmenu` run this command to install extension.
+> - **Extension are not showing up in browse tab of Extension Manager :**
+	- Some times Gnome extensions website will be down because of this you will ot find any extensions in such situations wait for some time and try again.
 
 
